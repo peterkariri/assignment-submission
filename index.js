@@ -1,2 +1,2 @@
 //my first javascript programm 
-console.log('HELLO,<Peter Njuguna>,welcome to the Bootcamp');
+console.log('HELLO,<your name>,welcome to the Bootcamp');
